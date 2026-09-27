@@ -1,0 +1,7 @@
+Android.Studio
+Git.Git
+GitHub.GitHubDesktop
+Microsoft.VisualStudioCode_1.0.139.1_neutral__8wekyb3d8bbwe
+Microsoft.VisualStudio.2026.Enterprise
+Mozilla.Firefox
+Docker.DockerDesktop
